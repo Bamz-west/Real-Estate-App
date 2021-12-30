@@ -1,4 +1,4 @@
-This is a Real Estate App that displays information on properties for rent and for sale UAE using data form Bayut API
+This is a Real Estate App that displays information on properties for rent and for sale UAE using data from Bayut API
 
 ## Getting Started
 

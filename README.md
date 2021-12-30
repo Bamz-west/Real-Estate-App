@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Real Estate App that displays information on properties for rent and for sale UAE using data form Bayut API
 
 ## Getting Started
 
